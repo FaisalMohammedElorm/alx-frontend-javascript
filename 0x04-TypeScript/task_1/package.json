@@ -1,7 +1,7 @@
 {
-  "name": "task_0",
+  "name": "task_1",
   "version": "1.0.0",
-  "description": "TypeScript student table project",
+  "description": "TypeScript directors project",
   "main": "js/main.ts",
   "scripts": {
     "build": "webpack",
